@@ -4,4 +4,10 @@
 
 
 
+.bg-video{
+    background-image: linear-gradient(to right,#fe61fb,#45f6f6);
+}
 
+.services{
+    background-image: url('./assets/service-bg.png');
+}
