@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+<<<<<<< HEAD
 
 
 
@@ -11,3 +12,9 @@
 .services{
     background-image: url('./assets/service-bg.png');
 }
+=======
+
+
+
+
+>>>>>>> adb251932bc31fda883eb56126fae1beefba726b

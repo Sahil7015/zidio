@@ -28,6 +28,8 @@ const Home = () => (
   </div>
     <JobListings/>
   </>
-);
+  )
+
+
 
 export default Home;
